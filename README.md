@@ -36,7 +36,7 @@ Enjoy the weather updates!
 
 ## Screenshots
 
-![Screenshot](images/Screenshot(56).png)
+![Screenshot](images/screenshot.png)
 
 
 ## License
