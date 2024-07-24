@@ -2,6 +2,9 @@
 
 This is a simple weather application that fetches current weather information based on geolocation or user input.
 
+## Live Website
+Link- https://shanuchoudhary84.github.io/Weather-App/
+
 ## Features
 
 - Fetches weather data using OpenWeatherMap and WeatherAPI.
